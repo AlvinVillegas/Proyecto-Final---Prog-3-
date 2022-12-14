@@ -1,0 +1,100 @@
+Historias de Usuario
+
+1-) Esta historia tendría una puntuación de 5.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software contenga un login 
+•	Para: Así poder tener un control de quien ingresa a la página.
+
+Criterios de aceptación
+1.A-) El login debe poseer el logo de la empresa.
+2.A-) Debe contener una parte llamada “Forgot password”, para aquellos usuarios que hayan olvidado su contraseña.
+3.A-) Debe contener un cuadro debajo mostrando cómo ingresar por parte de admin y usuario de prueba.
+
+2-) Esta historia tendría una puntuación de 3.
+•	Como: Encargado de la empresa.
+•	Quiero: Que la parte del login tenga una opción en donde se permita ingresar con cuenta de Google.
+•	Para: Que así los usuarios tengan una forma más sencilla y confiable de ingresar al software.
+
+Criterios de aceptación
+2.A-) Esta opción será un botón.
+2.B-) El botón debe contener una imagen de Google, haciendo referencia a que se puede ingresar con cuenta Google.
+3-) Esta historia tendría una puntuación de 5.
+•	Como: Encargado de la empresa.
+•	Quiero: Que en la parte del login haya una opción llamada “sing up”.
+•	Para: Que así el usuario pueda crear una nueva cuenta en el software y pueda ingresar al mismo.
+
+Criterios de aceptación
+3.A-) Esta opción será un link.
+3.B-) Al ingresar debe mostrar un formulario con los requerimientos: Nombre, Tipo, Email, Contraseña y volver a escribir contraseña.
+
+
+4-) Esta historia tendría una puntuación de 3.
+•	Como: Encargado de la empresa.
+•	Quiero: Que las distintas opciones que tiene el software, tales como Mailbox, Dashboard, Clients, etc. Se puedan visualizar en un menú.
+•	Para: Que así el software sea amigable y sencillo de utilizar para los clientes.
+
+Criterios de aceptación
+4.A-) Las opciones se deben visualizar a la izquierda en un menú.
+4.B-) Las opciones del menú deben tener íconos los cuales hagan referencia a qué se puede hacer en cada función presentada en el menú.
+
+5-) Esta historia tendría una puntuación de 2.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software tenga un tipo de opción en donde se visualice el nombre de la persona que ingresó.
+•	Para: Que así el cliente tenga conocimiento de cuál cuenta está utilizando en el momento.
+
+Criterios de aceptación
+5.A-) Este nombre se debe visualizar en la esquina derecha superior.
+5.B-) Al lado del nombre debe haber un ícono o imagen referente al usuario.
+
+
+6-) Esta historia tendría una puntuación de 3.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software posea una opción en donde se puedan visualizar la mensajería.
+•	Para: Que así el cliente tenga un control de todos los mensajes que ha recibido. 
+
+Criterios de aceptación
+6.A-) Esta opción debe encontrarse en un menú en la parte superior de la pantalla.
+6.B-) El ícono que represente esta funcionalidad debe ser una carta o algo referente a mensajería.
+
+
+
+
+
+7-) Esta historia tendría una puntuación de 1.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software tenga una opción en donde se pueda agregar o crear un recordatorio.
+•	Para: Que así el cliente pueda tenga conocimiento de todos los eventos o fechas importantes las cuales se aproximen gracias a esta función.
+
+Criterios de aceptación
+7.A-) Esta opción por igual estará en el menú superior junto a otras opciones.
+7.B-) El ícono representante debe ser un reloj.
+7.C-) Al presionar la opción debe permitirte ponerle un título al recordatorio, una fecha y una hora.
+
+8-) Esta historia tendría una puntuación de 4.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software tenga una opción la cual permita cambiar el idioma.
+•	Para: Que así los distintos clientes a través del mundo no tengan dificultad de utilizar nuestro software, es decir, que el idioma no sea una barrera.
+
+Criterios de aceptación
+8.A-) El ícono representante de esta opción debe ser un planeta tierra, o parecido.
+8.B-) Los idiomas que se encontrarán en esta opción serán inglés, alemán, italiano, polaco, portugués, español, ruso, griego, francés, noruego, checo y holandés.
+
+9-) Esta historia tendría una puntuación de 3.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software tenga una opción llamada “Help & Support”.
+•	Para: Que así los clientes tengan una forma de resolver las dudas que tengan en base al software, si necesitan soporte con algo en específico, etc.
+
+Criterios de aceptación
+9.A-) Esta opción se encontrará a la izquierda en el menú previamente establecido.
+9.B-) Esta opción será un menú desplegable el cual mostrará otras opciones referentes a ayudar al cliente.
+9.C-) Entre las opciones estará: Help, Help articles, Help categories, entre otras.
+
+
+10-) Esta historia tendría una puntuación de 5.
+•	Como: Encargado de la empresa.
+•	Quiero: Que el software tenga una parte llamada “Settings” o “Configuración”.
+•	Para: Que así los clientes puedan configurar el software a su gusto de manera general, es decir, que tengan opciones para cambiar el idioma, la visualización gráfica del software, etc.
+
+Criterios de aceptación
+10.A-) El ícono referente a esta opción será una tuerca.
+10.B-) Al ingresar podremos observar una pantalla en donde nos mostrará todas las opciones de configuración, tanto para la app, para el portal del cliente, los plugins, etc.
